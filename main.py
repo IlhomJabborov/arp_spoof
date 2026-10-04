@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+#Manba bilan ishlating
+#Ilhom Jabborov
+#Youtube: https://www.youtube.com/@JabborovIlhom
+#GitHub: https://github.com/IlhomJabborov
 
 import scapy.all as scapy
 import time
